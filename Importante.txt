@@ -1,0 +1,4 @@
+
+
+Interropa - Abandona o laço, no primeiro valor verdadeiro ele abandona o para.
+

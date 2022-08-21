@@ -1,0 +1,11 @@
+Nome: Igor Rafael da Silva Pereira
+
+1- Questão.
+
+printf("%d %d %d %d\n", p, r, s, c);
+printf(“%d”,p) = o valor de p é o endereço de i;
+printf(“%d”,r) = o valor de r é o endereço de p ;
+printf(“%d”,s) = o valor de s é o endereço de j;
+printf (“%d”,c) = o valor de c é o conteúdo da soma do conteúdo de r(7) com o conteúdo de s (3).
+
+

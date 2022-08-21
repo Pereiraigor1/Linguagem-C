@@ -1,0 +1,32 @@
+Escreval - escreve e pula uma linha
+
+Regras dos identificadores:
+
+1.Deve começar com uma LETRA;
+2.Os próximos podem ser LETRAS ou NÚMEROS;
+3.Não pode utilizar nenhum SÍMBOLO, exceto _
+4. Não pode conter ESPAÇÕS em branco;
+5.Não pode conter letras com ACENTO;
+6.Não pode ser uma palavra RESERVADA
+
+RESERVADA - FUNÇÃO OU SUBLINHADA
+
+\ - operador de divisão inteira ex: 5/2 = 2;
+^ - exponenciação 5^2 = 25;
+% - módulo(resto da divisão) ex: 5/2 = 1;
+
+abs - valor absoluto - abs(-10) = 10
+exp -exponenciação - exp(3,2) = 9
+int - Valor inteiro - int(3.9) = 3
+RaizQ - Raiz quadrada RaizQ(25) = 5
+Pi - Retorna Pi - pi =3.1415
+Sen - Seno(rad) - Sen(0.523) = 0,5
+Cos - Cosseno (rad) - Cos (0.523) = 0.86
+Tan - Tangente (rad) - Tan(0.523) = 0.57
+GraupRad - Graus para Rad  GraupRad(30) = 0.52
+
+<> - diferente
+
+OPERADORES LÓGICOS
+E, OU e NÃO
+
